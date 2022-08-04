@@ -1,0 +1,181 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+
+.width {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 750px;
+}
+
+.bg-color {
+    background-color: blueviolet;
+}
+
+.menu {
+    height: 100px;
+}
+
+.menu li {
+    display: inline-block;
+    padding: 15px;
+    color: whitesmoke;
+    margin-top: 25px;
+    margin-bottom: 25px;    
+}
+
+.menu li a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.my_name {
+    height: 300px;
+    font-size: 50px;
+    font-weight: bold;
+    color: whitesmoke;
+    
+}
+
+.my_name p{
+    padding-top: 90px;
+    text-align: center;
+}
+
+.about_me {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 750px;
+    
+
+}
+
+.about_me h1 {
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 75px;
+    text-align: center;
+}
+
+.about_me p {
+    padding-top: 40px;
+    margin-left: -9px;
+    font-size: 20px;
+}
+
+.foto {
+    margin-left: 250px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    max-width: 750px;
+}
+
+
+.foto  img {
+    width: 700px;
+    border-radius: 25px;
+}
+
+.skills {
+    background-color: aquamarine;
+    padding-bottom: 60px;
+    
+}
+
+.skills li {
+    display: inline-block;
+    padding: 20px;
+    background-color: blueviolet;
+    border-radius: 50%;
+
+}
+
+.skills h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 40px;
+    margin-top: 30px;
+}
+
+.my_strengths h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 40px;
+    margin-top: 30px;
+}
+
+.title {
+    display: inline-block;
+    margin-left: 150px;
+}
+
+.title_2 {
+    display: inline-block;
+    margin-left: 100px;
+}
+
+.my_strengths li {
+    padding-top: 20px;
+}
+
+.my_strengths {
+    margin-bottom: 80px;
+}
+
+.my_works h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 40px;
+    margin-top: 30px;
+}
+
+.pic {
+    width: 200px;
+    height: 140px;
+    background-color: #dcdcdc;
+    margin-bottom: 20px;
+}
+
+.project {
+    display: inline-block;
+    margin-right: 30px;
+    margin-bottom: 80px;
+}
+
+.footter {
+    background-color: #dcdcdc63;
+    padding-bottom: 50px;
+}
+
+.footter h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 40px;
+    padding-top: 30px;
+}
+
+.footter i {
+    margin-bottom: 15px;
+    margin-right: 10px;
+}
+
+.vk-logo {
+    font-size: 25px;
+}
+
+.mail-logo {
+    font-size: 20px;
+}
+
+.tele-logo {
+    font-size: 20px;
+}
+
+.kont {
+    display: block;
+}
